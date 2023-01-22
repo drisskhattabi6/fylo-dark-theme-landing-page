@@ -1,2 +1,2 @@
 # fylo-dark-theme-landing-page
-fylo-dark-theme-landing-page (HTML + CSS)
+fylo-dark-theme-landing-page (HTML + CSS + JS)
